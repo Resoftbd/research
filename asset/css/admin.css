@@ -1,0 +1,15 @@
+.bg_g{background:#3AD420;}
+.bg_g:hover{background:#249411;}
+.bg_r{background:#F74A4A;}
+.bg_r:hover{background:#B71515;}
+.bg_b{background:#338BEF;}
+.bg_b:hover{background:#135AAB;}
+.article br{display:none;}
+.login-table{width:400px;margin:150px auto;}
+.login-table table{float:left;position:relative;box-shadow:2px 2px 5px #000;background:#eeeeee;width:100%;}
+.login-table table td{padding:7px 25px;}
+.login-table table input{margin:5px 0;font-size:120%;color:#888;width:100%;transition:.5s;border:none;padding:5px;box-shadow:0px 0px 5px rgba(0,0,0,.4);}
+.login-table table input[type="text"]:hover,.login-table table input[type="password"]:hover,.login-table table input[type="text"]:focus,.login-table table input[type="password"]:focus{box-shadow:0px 0px 5px rgba(38,38,200,.8);}
+.login-table table input[type="submit"]{margin-bottom:35px;color:#000;font-weight:bold;}
+.login-table table input[type="submit"]:hover{color:#fff;}
+.admin_text{font-size: 125%;font-family: sans-serif;color: #012271;text-align: center;}

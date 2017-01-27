@@ -1,0 +1,32 @@
+.about_box{float: right;border:1px solid;}
+.about_pic{border:1px solid;height:300px;float: left;}
+.latest_box_2{height:250px;overflow:hidden;border:none;}
+.latest_box_2 img{position:relative;left:50%;top:50%;transform:translateX(-50%) translateY(-50%);}
+
+.latest_box{height:300px;overflow:hidden;border:none;}
+.latest_box img{position:relative;left:50%;top:50%;transform:translateX(-50%) translateY(-50%);}
+.featured_box{height:350px;overflow:hidden;border:none;}
+.featured_box img{position:relative;left:50%;top:50%;transform:translateX(-50%) translateY(-50%);}
+.related_box{height:450px;overflow:hidden;border:none;}
+.related_box img{position:relative;left:50%;top:50%;transform:translateX(-50%) translateY(-50%);}
+.no_padding{padding:0 !important;}
+.company_logo{width:100px;padding-bottom: 5px;padding-top: 0px !important;}
+.product_category{float: left;width:100%;height:60px;background: #D3ECFF;padding: 5px;top: -40px;color: #002E62;font-family:sans-serif;
+                    text-align: center;border-radius: 5px;}
+.pic_box img{height: 100%;width: 100%;}
+.pic_box{z-index:200;  height: 210px; float:left;border: 1px solid;overflow: hidden;position: relative;top:50%;left:50%;transform:translateX(-50%) translateY(-50%);width:210px;} 
+.icon_box{z-index:100;background:rgba(49,176,213,.7); width:200px; height: 200px;float: left;margin-left:100px;margin-top:120px;border-radius: 100px; position: absolute;transition:1s; } 
+.icon_box img{height: 50px; width: 55px;margin-top: 40px;margin-left: 15px;}
+.icon_box :hover{background:rgba(251,121,34,.7);border:1px solid;}
+.pic_file{width:100%;height:100%;opacity:0; position: absolute;}
+.books{float:left;padding-bottom:15px;border-bottom: 1px solid;}
+.dropdown-menu.login-panel{float:right;right:0;left:auto;}
+.login_panel{border:1px solid #000;}
+.header_padding{margin-top:15%;}
+.cart_color{color:#FFF900;font-size: 110%; text-decoration: none;}
+.cart_color:hover{text-decoration: none;}
+.product_list{display:none;transition:1s;}
+.single_size{min-height: 260px;}
+.divider{height:5px;}
+.page_devide{font-size: 130%;color:red;}
+.page_devide:hover{color:yellow;text-decoration: none;}
