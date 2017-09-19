@@ -11,6 +11,11 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
+About This Project
+*******************
+This project has been designed and developed for a researcher group of East West University. Bootstrap and Codeingiter was used to develop this project.
+
+*******************
 Release Information
 *******************
 
